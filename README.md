@@ -1,11 +1,11 @@
-Perhaps I'll start uploading some of the things I've been working on here
+I'm going to commit (changes)
 
 - 👋 Hi, I’m @100lumis
 - 👀 I’m interested in coding, web design, art, music & video games...
 - 🌱 I’m currently learning Javascript, Jquery & MySQL
-- 📫 How to reach me ...
+- 📫 Send me zip bombs
 - 😄 Pronouns: she/her...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ✋︎ ●︎♓︎🙵♏︎ ♍︎□︎❒︎❖︎♓︎♎︎⬧︎ 🖳︎✆︎
 
 <!---
 100lumis/100lumis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
